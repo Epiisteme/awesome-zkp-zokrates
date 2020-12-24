@@ -9,3 +9,6 @@ Awesome Aspects of Zokrates Zero Knowledge Proof Tools
 
 ## Zokrates in Rust
 - https://github.com/Shard-Labs/zpm
+
+## Proof of Work Implementation
+- https://github.com/robmuth/proof-of-work
