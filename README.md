@@ -6,3 +6,6 @@ Awesome Aspects of Zokrates Zero Knowledge Proof Tools
 
 ## Zero Knowledge Oracles
 - https://github.com/zoracles/contracts
+
+## Zokrates in Rust
+- https://github.com/Shard-Labs/zpm
