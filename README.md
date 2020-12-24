@@ -1,5 +1,5 @@
 # awesome-zkp-zokrates
-Awesome Aspects of Zokrates Zero Knowledge Proof Tools
+Awesome Zokrates Tools for Zero Knowledge Proof Implementations
 
 ## Fairness Based Bidding Implementation
 - https://github.com/WillZhuang/FairBiddingScheme
